@@ -4,7 +4,7 @@ using namespace std;
 int main(int argc, char **argv)
 {
     int n=321213;
-    // cin >> n;
+    cin >> n;
     int count = 0;
     int i = 0;
     // write your code here
